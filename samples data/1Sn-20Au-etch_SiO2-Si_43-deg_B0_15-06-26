@@ -1,0 +1,71 @@
+Experiment:
+------------  Jun 15, 2026     5:08:32 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.557°   C 45.000°   A -35.585°  -> Delta: 175.11   Psi: 35.58
+optical model results:
+d layer 0 = 9.9386
+------------  Jun 15, 2026     5:09:34 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.567°   C 45.000°   A -35.592°  -> Delta: 175.13   Psi: 35.59
+optical model results:
+d layer 0 = 9.8985
+------------  Jun 15, 2026     5:10:11 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.598°   C 45.000°   A -35.393°  -> Delta: 175.20   Psi: 35.39
+optical model results:
+d layer 0 = 9.7638
+------------  Jun 15, 2026     5:10:55 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.550°   C 45.000°   A -35.589°  -> Delta: 175.10   Psi: 35.59
+optical model results:
+d layer 0 = 9.9702
+------------  Jun 15, 2026     5:11:36 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.554°   C 45.000°   A -35.568°  -> Delta: 175.11   Psi: 35.57
+optical model results:
+d layer 0 = 9.9530
+------------  Jun 15, 2026     5:13:39 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.697°   C 45.000°   A -35.588°  -> Delta: 175.39   Psi: 35.59
+optical model results:
+d layer 0 = 9.3427
+------------  Jun 15, 2026     5:14:23 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.588°   C 45.000°   A -35.564°  -> Delta: 175.18   Psi: 35.56
+optical model results:
+d layer 0 = 9.8068
+------------  Jun 15, 2026     5:15:14 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.611°   C 45.000°   A -35.577°  -> Delta: 175.22   Psi: 35.58
+optical model results:
+d layer 0 = 9.7094
+------------  Jun 15, 2026     5:15:58 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.532°   C 45.000°   A -35.550°  -> Delta: 175.06   Psi: 35.55
+optical model results:
+d layer 0 = 10.0447
+------------  Jun 15, 2026     5:16:35 PM  -----------
+wavelength: 532.00nm   angle-of-incidence: 43.87°   output power: 1%
+ROI: 0,0,768,572
+nulling method: one zone w/ 1 iteration
+Null #1: P -42.566°   C 45.000°   A -35.535°  -> Delta: 175.13   Psi: 35.53
+optical model results:
+d layer 0 = 9.9014
